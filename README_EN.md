@@ -2,8 +2,8 @@
 * Name：WuTao / Male / 1988
 * M/P：13810769071（Beijing）
 * Jobed: Zerotech / PHP senior engineer / 2016.08~Now
-* Bachelor degree in reading / Beijing foreign studies university / Department of computer science and technology / 2018.09.01-2021.01
-* College / Recruitment / Nanyang institute of technology / 2005.09.01-2007.07.10 
+* Reading：Regular college / Beijing foreign studies university / Department of computer science and technology / 2018.09.01-2021.01
+* Graduated：Junior college / Recruitment / Nanyang institute of technology / 2005.09.01-2007.07.10 
 * Github：<https://github.com/taozywu>
 * Email：<taozy.wu@qq.com>
 * QQ：3079520070
