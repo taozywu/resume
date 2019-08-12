@@ -26,8 +26,9 @@
 * 版本管理：Git、SVN、HG、Cvs
 * 虚拟化：VM、Vituralbox
 * 持续集成：Jenkins、GIT Webhook、自研
+* 坚持Linux作为日常调试系统
 * 接触过高并发高流量的一些真实项目案例并持续定向研究
-* 坚持Linux作为日常调试系统 / 坚持每日技术练习提升 / 每周算法练习 / 每周练习英语单词 / 每周读书 
+* 坚持每日技术练习提升 / 每周算法练习 / 每周练习英语单词 / 每周读书 
 * 坚持每日思考总结和次日工作 / 及时把控进度 / 及时调整优先级
 * 擅长独立或合作快速完成整个项目，常用Postman、PHPunit等进行自检代码并保持高提前上线率、低BUG率、低事故率
 
@@ -40,7 +41,9 @@ Nginx、PHP、Mysql、Workerman、Redis、RabbitMq、Slim等
 #### 工作项目
 * DoWell地面站直播系统、地面站3D系统
 * DOFUN APP、云台APP、Dance编队APP、运营后台管理系统
-* 第三方对接（大疆、高巨）、禁飞实时监控、官网、论坛、内网系统、管理建设
+* 第三方对接（大疆、高巨）、禁飞实时监控
+* 官网、论坛、内网系统等
+* 管理建设
 
 #### 工作内容
 1. SRS服务搭建及优化、H5直播方案调研、直播延迟优化调研等
@@ -63,7 +66,9 @@ Nginx、PHP、Mysql、Workerman、Redis、RabbitMq、Slim等
 Nginx、PHP、Mysql、Workerman、Redis、RabbitMq、Slim等
 
 #### 工作项目
-* 友空间（原企业空间）APP、网站平台及后台管理系统、点晶系统、超客营销系统
+* 友空间（原企业空间）APP
+* 友空间网站及后台管理系统
+* 点晶系统、超客营销系统
 
 #### 工作内容
 1. [网站](http://www.upesn.com )其中参与模块：项目、话题、日程、文库、任务、嘟嘟实时扣费机制、文件池、点晶系统、超客营销支持
@@ -75,22 +80,26 @@ Nginx、PHP、Mysql、Workerman、Redis、RabbitMq、Slim等
 7. V3.0 日志接口开发&&H5项目模块接口开发
 
 #### 成就
-1. 文库转换处理工作得到总监肯定和认可
-2. 项目模块得到副总赞美
-3. 任务应用测试期间得到测试同学夸赞
-4. 各个模块需求确认、开发中问题确认提出个人见解和方案并得到产品经理肯定
-5. 参与企业空间项目集团评获第二名
+1. 参与企业空间项目集团评获第二名
+2. 文库转换处理工作得到总监肯定和认可
+3. 项目模块得到副总赞美
+4. 任务应用测试期间得到测试同学夸赞
+5. 各个模块需求确认、开发中问题确认提出个人见解和方案并得到产品经理肯定
 
 ### 创业家 服务器研发主管（2014年08月至2015年01月）
 
 #### 技术栈
 Nginx、PHP、Mysql、Redis、Memcache、Gearman等
 
-#### 工作项目及工作内容
-* 牛投众筹APP开发、运营后台管理系统开发
+#### 工作项目
+* 牛投众筹APP开发
+* 牛投运营后台管理系统开发
+
+#### 工作内容
 1. TP框架封装和优化、参与整体数据结构设计、各个技术方案讨论和沟通以及实现.
 2. 二度好友：采用Gearman异步抓取微博互粉好友数据进行逻辑处理
-3. 接口开发、接口文档、[网站](http://www.niutou.com) 开发（H5）、牛投网运营平台开发
+3. 接口开发、接口文档、[网站](http://www.niutou.com) 开发（H5）
+4. 牛投网运营平台开发
 
 #### 成就
 1. 同事投票使用TP框架进行开发，在短时间内从零到熟悉并做封装和优化处理（采用单入口、多module、model层抛弃自带写法）
@@ -102,7 +111,9 @@ Nginx、PHP、Mysql、Redis、Memcache、Gearman等
 Nginx、PHP、Mysql、Jquery、JgGrid、JqueryUi、JqueryLayout、JqueryTreeview等
 
 #### 工作项目
-* OA办公平台开发、ERP系统平台开发、管理建设
+* OA办公平台开发
+* ERP系统平台开发
+* 管理建设
 
 #### 工作内容
 1. 整体框架优化和底层部分封装、整体布局、新权限管理系统
@@ -119,8 +130,11 @@ Nginx、PHP、Mysql、Jquery、JgGrid、JqueryUi、JqueryLayout、JqueryTreeview
 #### 技术栈
 Nginx、PHP、Mysql、Memcache、Redis、Jquery、Thrift等
 
-#### 工作项目及工作内容
-* 统计SDK封装及优化、广告推广及游戏平台开发
+#### 工作项目
+* 统计SDK封装及优化
+* 广告推广及游戏平台开发
+
+#### 工作内容
 1. SDK封装、优化、维护
 2. 广告推广策略逻辑开发、游戏平台模块开发
 
@@ -133,8 +147,11 @@ Nginx、PHP、Mysql、Memcache、Redis、Jquery、Thrift等
 Nginx、PHP、Jquery、Mysql、Memcache、Smarty等
 
 #### 工作项目
-* 智珠网络 - 外派 - [PSP](http://psp.178.com) 、[FLASH](http://flash.178.com) 、 [动漫之家](http://www.dmzj.com)
-* [武林帝国官网](http://www.50dg.com) 、游戏模块、游戏运营管理平台、监控统计平台、推广联盟平台、[大大侠SNS网站](http://www.dadaxia.com) 等
+* 智珠网络 - 外派 - [PSP](http://psp.178.com) 
+* 智珠网络 - 外派 - [FLASH](http://flash.178.com) 
+* 智珠网络 - 外派 - [动漫之家](http://www.dmzj.com)
+* [武林帝国官网](http://www.50dg.com) 
+* 游戏部分模块开发、游戏运营管理平台、监控统计平台、推广联盟平台、[大大侠SNS网站](http://www.dadaxia.com) 等
 
 #### 工作内容
 1. 负责智珠网络外派三个项目需求分析、文档设计、数据结构设计、编码工作、测试联调、上线
@@ -157,7 +174,6 @@ Nginx、PHP、Jquery、Mysql、Memcache、Smarty等
 1. 参与网站、充值平台、代理平台、加盟平台的需求分析、编码开发、测试、上线
 
 ## 作品
-
 * [创业]抠仔网网站开发、商家管理平台开发、APP开发
 * [其他]程序代码部署系统、通用后台管理系统、翻译聚合助手小程序、联网最新前沿资讯聚合平台
 
