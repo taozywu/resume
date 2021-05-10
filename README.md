@@ -2,27 +2,26 @@
 * 吴涛 / 男 / 1988
 * 手机：13810769071（北京）
 * 零度智控 / 研发主管 / 2016.08至今
-* 本科在读 / 北京外国语大学 / 计算机科学与技术系 / 2018.09.01-2021.01
-* 大专 / 统招 / 南阳理工学院计算机应用 / 2005.09.01-2007.07.10 
+* 本科在读 / 北京外国语大学 / 计算机科学与技术系
+* 大专 / 统招 / 南阳理工学院 / 计算机应用
 * Github：<https://github.com/taozywu>
 * Email：<taozy.wu@qq.com> 
 * QQ：3079520070
 
 ## 技能清单
 * 语言：PHP > JS > Golang && JAVA && Lua
-* PHP框架：Zendframework1、ThinkPHP3、ThinkPHP5、CodeIgniter、Yaf、WorkerMan、Slim、Swoole等
-* Go框架（学习中）：[Snow](https://github.com/qit-team/snow/)、[Kratos](https://github.com/bilibili/kratos)
-* JAVA框架：Servlet+Struts+Hibernate模式(比较旧，请忽略)
-* 前端 & 扩展：Bootstrap、HTML5、jQuery、jqueryUi、jqueryGrid、jqueryLayout、dojo框架 、可编辑下拉列表 、jqueryTreeview等
-* Cache：Redis > Memcache
-* 数据库相关：MySQL > ElasticSearch && MongoDB && SqlServer
-* 服务器：Nginx > Apache > Tomcat
-* 队列：RabbitMQ > Kafka
-* 中间件：Kingshard、Mycat；Twemproxy、Codis等
-* 程序 & 数据库 & 产品：使用PowerDesigner画类图、数据结构图；使用Visio画组织结构图、流程图、状态图、时序图；使用AxureRP/墨刀画WEB/APP原型图；使用Excel宏画页面效果图等
-* 设计：Restful、可复用、可扩展、埋点设计、Debug等
-* 项目管理：制定项目计划、周例会、每日总结会、文档建设、环境建设、代码控制建设、Bug跟踪反馈建设、程序部署上线集成、组员团建等
-* 运维：使用EKL监控；使用Zabbix来监控Nginx、Mysql、Redis、Php等；使用WM监控每个程序服务请求数、请求耗时、失败率、失败告警通知等
+* PHP框架：ZF、ThinkPHP3、ThinkPHP5、ThinkPHP6、CI、Yaf、WorkerMan、Slim、Webman、Swoole等
+* Go框架：Snow、Kratos等
+* JAVA框架：Spring、SpringBoot、SpringCloud、Mybatis等
+* 前端框架：Uniapp、Vue、NodeJS等；Bootstrap、HTML5、jQuery、jqueryUi、jqueryGrid、jqueryLayout、dojo框架 、可编辑下拉列表 、jqueryTreeview等
+* Cache && 数据库：Redis、Memcache；MySQL、ElasticSearch、 MongoDB、SqlServer
+* 服务器：Nginx、Apache、Tomcat
+* 队列：RabbitMQ、Kafka
+* 中间件：Kingshard、Mycat、Twemproxy、Codis等
+* 产品能力：使用PD画类图、数据结构图；使用Visio或drawio画组织结构图、流程图、状态图、时序图；使用AxureRP或墨刀画WEB/APP原型图；使用Excel宏画页面效果图等
+* 设计能力：Restful模式、可复用、可扩展、埋点设计、Debug等
+* 项目管理能力：制定项目计划、周例会、每日总结会、文档建设、环境建设、代码控制建设、Bug跟踪反馈建设、程序部署上线集成、组员团建等
+* 运维能力：熟练搭建LNMP及其他各种服务环境等；使用EKL做日志排查和监控；使用Zabbix来监控Nginx、Mysql、Redis、Php等；使用WM监控每个程序服务请求数、请求耗时、失败率、失败告警通知等
 * 版本管理：Git、SVN、HG、Cvs
 * 虚拟化：VM、Vituralbox
 * 持续集成：Jenkins、GIT Webhook、自研
@@ -30,34 +29,35 @@
 * 接触过高并发高流量的一些真实项目案例并持续定向研究
 * 坚持每日技术练习提升 / 每周算法练习 / 每周练习英语单词 / 每周读书 
 * 坚持每日思考总结和次日工作 / 及时把控进度 / 及时调整优先级
-* 擅长独立或合作快速完成整个项目，常用Postman、PHPunit等进行自检代码并保持高提前上线率、低BUG率、低事故率
+* 擅长独立或合作快速完成整个项目，常用Postman、PHPunit等进行自检代码并保持高效率、低BUG率、低事故率
 
 ## 工作经历
 ### 零度智控 服务器研发主管（2016年08月至今）
 
 #### 技术栈
-Nginx、PHP、Mysql、Workerman、Redis、RabbitMq、Slim等
+Nginx、PHP、Mysql、Workerman、Redis、RabbitMq、Slim、ThinkPHP、CesuimJS、Python、Go、Vue等
 
 #### 工作项目
-* DoWell地面站直播系统、地面站3D系统
-* DOFUN APP、云台APP、Dance编队APP、运营后台管理系统
+* 云巡APP、云巡用户管理系统、云巡核心管理系统、云巡H5平台、云巡小程序
+* PC地面站、3D高程、激光点云
+* DOFUN APP、云台APP、Dance编队APP、DOBBY运营管理系统
 * 第三方对接（大疆、高巨）、禁飞实时监控
 * 官网、论坛、内网系统等
 * 管理建设
 
 #### 工作内容
-1. SRS服务搭建及优化、H5直播方案调研、直播延迟优化调研等
-2. 地面站直播接口&&地面站3D地形图接口架构、开发、测试、上线
-3. DOFUNAPP、云台APP、编队APP接口架构、开发、测试、上线
-4. 运营后台管理系统开发、测试、上线
-5. 官网和论坛维护、内部发布系统开发、航迹分析系统开发、订餐系统开发、研发仓库出入库系统、研发机库组装出入库系统、会议室预定开发及维护
-6. 微软云迁移至阿里云、第三方大疆和高巨开发和支持、禁飞实时推送监控
-7. 管理工作：文档建设、环境建设、代码控制建设、项目计划把控和协调、例会周报、团建等
+1. 云巡APP、云巡用户管理系统、云巡核心管理系统、云巡H5平台、云巡小程序架构选取，服务环境搭建，文档整理，接口开发，测试，上线
+2. 云巡流媒体服务搭建及优化、H5直播方案调研、直播延迟优化调研等
+3. PC地面站、3D高程、激光点云接口架构选取，文档整理，接口开发，测试，上线
+5. DOFUN APP、云台APP、Dance编队APP、DOBBY运营管理系统架构选取，文档整理，接口开发、测试、上线
+7. 官网和论坛维护、内部发布系统、航迹分析系统、订餐系统、研发仓库出入库系统、研发机库组装出入库系统、会议室预定等
+8. 微软云迁移至阿里云、第三方大疆和高巨开发和支持、禁飞实时推送监控
+9. 管理工作：文档建设、环境建设、代码控制建设、项目计划把控和协调、例会周报、同事团建等
 
 #### 成就
 1. 不到2个月完成2款APP所有代码移植至新架构并跑测所有接口正常通过得到领导肯定和认可
 2. 凌晨并通宵完成整个服务器迁移工作，期间用户很小感知
-3. 统一组内开发环境节省时间成本；每个升级包对应一份纪要；每个接口对应一份接口文档得到同事认可
+3. 统一组内开发环境节省开发时间成本；每次上线对应一份上线纪要存档；每个接口对应一份接口文档得到同事认可
 4. 第三方开发支持工作按时完成并得到对方领导和同事夸赞
 
 ### 用友  PHP高级研发工程师 （2015年01月至2016年08月）
@@ -74,10 +74,10 @@ Nginx、PHP、Mysql、Workerman、Redis、RabbitMq、Slim等
 1. [网站](http://www.upesn.com )其中参与模块：项目、话题、日程、文库、任务、嘟嘟实时扣费机制、文件池、点晶系统、超客营销支持
 2. V2.0 圈子、组织结构、联系人、嘟嘟通话扣费等开发及优化
 3. V2.1 用户接口开发
-4. V2.3 话题接口开发&&项目接口开发
-5. V2.4 文库接口开发&&日程接口开发&&任务模块接口开发&&文库转换
+4. V2.3 话题接口开发，项目接口开发
+5. V2.4 文库接口开发，日程接口开发，任务模块接口开发，文库转换开发
 6. V2.5 日志接口开发
-7. V3.0 日志接口开发&&H5项目模块接口开发
+7. V3.0 日志接口开发，H5项目模块接口开发
 
 #### 成就
 1. 参与企业空间项目集团评获第二名
@@ -173,7 +173,7 @@ Nginx、PHP、Jquery、Mysql、Memcache、Smarty等
 * 网络电话Myicall充值平台、代理平台、加盟平台
 1. 参与网站、充值平台、代理平台、加盟平台的需求分析、编码开发、测试、上线
 
-## 作品
+## 个人作品
 * [创业]抠仔网网站开发、商家管理平台开发、APP开发
 * [其他]程序代码部署系统、通用后台管理系统、翻译聚合助手小程序、联网最新前沿资讯聚合平台
 
