@@ -5,8 +5,7 @@
 * 本科在读 / 北京外国语大学 / 计算机科学与技术系
 * 大专 / 统招 / 南阳理工学院 / 计算机应用
 * Github：<https://github.com/taozywu>
-* Email：<taozy.wu@qq.com> 
-* QQ：3079520070
+* Email：<taozy.wu@qq.com>
 
 ## 技能清单
 * 语言：PHP > JS > Golang && JAVA && Lua
